@@ -1,0 +1,1 @@
+# I want to build a web crawler with python - a tool that will enable one generate sitemaps
